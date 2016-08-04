@@ -1,5 +1,5 @@
-Harrix CodeStyle
-================
+Style Git
+=========
 
 The prefixes for the names of commits:
 
@@ -12,6 +12,7 @@ The prefixes for the names of commits:
  - **Feature** - new functionality.
  - **Refactor** - refactoring application code.
  - **Test** - for testing.
+ - **Experiment** - experiment.
 
 Examples
 --------

@@ -1,6 +1,8 @@
 Harrix CodeStyle
 ================
 
+The prefixes for the names of commits:
+
  - **Add** - something added.
  - **Delete** - delete something.
  - **Modify** - any modification other than a fix.

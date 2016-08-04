@@ -18,3 +18,4 @@ Examples
 --------
 
 Remove unnecessary files.
+Style. Correction code.

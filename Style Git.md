@@ -23,3 +23,4 @@ Remove unnecessary files.
 Style. Correction code.
 Fix original headline of the main window.
 Fix bug with ...
+Modify some parts of the code.

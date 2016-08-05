@@ -9,13 +9,17 @@ The prefixes for the names of commits:
  - **Fix** - error correction.
  - **Docs** - documentation work.
  - **Style** - fix formatting, correcting typos.
- - **Feature** - new functionality.
  - **Refactor** - refactoring application code.
  - **Test** - for testing.
  - **Experiment** - experiment.
+ - **Update** - update files (eg from another project).
+ - **Transfer** - transfer files.
+ 
 
 Examples
 --------
 
 Remove unnecessary files.
 Style. Correction code.
+Fix original headline of the main window.
+Fix bug with ...

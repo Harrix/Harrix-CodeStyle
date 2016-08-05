@@ -19,8 +19,9 @@ The prefixes for the names of commits:
 Examples
 --------
 
-Remove unnecessary files.
+Delete unnecessary files.
+Delete unnecessary lines in the code.
 Style. Correction code.
-Fix original headline of the main window.
 Fix bug with ...
 Modify some parts of the code.
+Update the files on the new version.

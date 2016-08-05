@@ -9,13 +9,13 @@ Description of code style that I use.
 License
 -------
  
-[MIT](https://github.com/Harrix/Harrix-CodeStyle/blob/master/LICENSE).
+License - [MIT](https://github.com/Harrix/Harrix-CodeStyle/blob/master/LICENSE).
  
-Контакты
+Contacts
 --------
 
-Автор: Сергиенко Антон Борисович.
+Author: Sergienko Anton Borisovich.
 
-С автором можно связаться по адресу [sergienkoanton@mail.ru](mailto:sergienkoanton@mail.ru) или  [http://vk.com/harrix](http://vk.com/harrix).
+The author can be contacted at [sergienkoanton@mail.ru](mailto:sergienkoanton@mail.ru) or  [http://vk.com/harrix](http://vk.com/harrix).
 
-Сайт автора, где публикуются последние новости: [http://blog.harrix.org](http://blog.harrix.org), а проекты располагаются по адресу: [http://harrix.org](http://harrix.org).
+Author's site where the latest news published: [http://blog.harrix.org](http://blog.harrix.org), and the projects are located at: [http://harrix.org](http://harrix.org).

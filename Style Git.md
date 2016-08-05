@@ -30,3 +30,5 @@ Examples
     Modify some parts of the code.
     
     Update the files on the new version.
+    
+    Modify README.md.

@@ -32,3 +32,5 @@ Examples
     Update the files on the new version.
     
     Modify README.md.
+    
+    Refactor code.

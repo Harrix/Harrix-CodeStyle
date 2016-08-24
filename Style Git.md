@@ -14,7 +14,7 @@ The prefixes for the names of commits:
  - **Experiment** - experiment.
  - **Update** - update files (eg from another project).
  - **Transfer** - transfer files.
- - **Change** - change something for something.
+ - **Replace** - replace something to something.
  
 
 Examples

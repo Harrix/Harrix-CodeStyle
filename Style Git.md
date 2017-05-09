@@ -1,4 +1,4 @@
-﻿# Style Git
+# Style Git
 
 The prefixes for the names of commits:
 
@@ -14,14 +14,14 @@ The prefixes for the names of commits:
 - **Update** - update files (eg from another project).
 - **Transfer** - transfer files.
 - **Replace** - replace something to something.
+- **Rename** - rename something to something.
 
-## Examples
+# Examples
 
 ```
 Delete unnecessary files.
 
 Delete unnecessary lines in the code.
-
 
 Style. Correction code.
 

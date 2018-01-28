@@ -12,7 +12,7 @@ The prefixes for the names of commits:
 - **Test** - for testing.
 - **Experiment** - experiment.
 - **Update** - update files (eg from another project).
-- **Transfer** - transfer files.
+- **Move** - move files.
 - **Replace** - replace something to something.
 - **Rename** - rename something to something.
 
@@ -37,5 +37,7 @@ Refactor code.
 
 Modify. While this comment.
 
-Replace. Rename files.
+Move files from folder '' to folder ''.
+
+Rename files.
 ```

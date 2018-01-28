@@ -35,7 +35,7 @@ Modify README.md.
 
 Refactor code.
 
-Modify. While this comment.
+Modify. Here is a description of the code modifications.
 
 Move files from folder '' to folder ''.
 

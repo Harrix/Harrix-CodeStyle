@@ -16,6 +16,8 @@ The prefixes for the names of commits:
 - **Replace** - replace something to something.
 - **Rename** - rename something to something.
 
+Do not end the subject line with a period.
+
 # Examples
 
 ```

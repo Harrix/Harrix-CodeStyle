@@ -19,25 +19,25 @@ The prefixes for the names of commits:
 # Examples
 
 ```
-Delete unnecessary files.
+Delete unnecessary files
 
-Delete unnecessary lines in the code.
+Delete unnecessary lines in the code
 
-Style. Correction code.
+Style. Correction code
 
 Fix bug with ...
 
-Modify some parts of the code.
+Modify some parts of the code
 
-Update the files on the new version.
+Update the files on the new version
 
-Modify README.md.
+Modify README.md
 
-Refactor code.
+Refactor code
 
-Modify. Here is a description of the code modifications.
+Modify. Here is a description of the code modifications
 
-Move files from folder '' to folder ''.
+Move files from folder '' to folder ''
 
-Rename files.
+Rename files
 ```

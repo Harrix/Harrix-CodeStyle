@@ -1,5 +1,7 @@
 # Style Git
 
+## Prefixes
+
 The prefixes for the names of commits:
 
 - **Add** - something added.
@@ -18,9 +20,9 @@ The prefixes for the names of commits:
 
 Do not end the subject line with a period.
 
-# Examples
+## Examples
 
-```
+```text
 Delete unnecessary files
 
 Delete unnecessary lines in the code

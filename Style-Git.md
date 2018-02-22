@@ -23,6 +23,10 @@ Do not end the subject line with a period.
 ## Examples
 
 ```text
+Add range on the copyright year
+
+Add license in markdown format
+
 Delete unnecessary files
 
 Delete unnecessary lines in the code

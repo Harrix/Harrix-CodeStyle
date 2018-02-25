@@ -9,7 +9,7 @@ Description of code style that I use.
 License
 -------
  
-License - [MIT](https://github.com/Harrix/Harrix-CodeStyle/blob/master/LICENSE).
+License - [MIT](https://github.com/Harrix/Harrix-CodeStyle/blob/master/LICENSE.md).
  
 Contacts
 --------

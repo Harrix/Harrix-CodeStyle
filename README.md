@@ -1,18 +1,15 @@
-Harrix-CodeStyle
-================
+# Harrix-CodeStyle
 
 Description of code style that I use.
 
  - [**Style Git**](https://github.com/Harrix/Harrix-CodeStyle/blob/master/Style-Git.md)
  - [**Style C++**](https://github.com/Harrix/Harrix-CodeStyle/blob/master/Style-C++.md)
  
-License
--------
+## License
  
 License - [MIT](https://github.com/Harrix/Harrix-CodeStyle/blob/master/LICENSE.md).
  
-Contacts
---------
+## Contacts
 
 Author: Sergienko Anton Borisovich.
 

@@ -33,6 +33,8 @@ Delete unnecessary lines in the code
 
 Style. Correction code
 
+Style. Correction docs
+
 Fix bug with ...
 
 Modify some parts of the code

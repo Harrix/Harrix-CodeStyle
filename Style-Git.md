@@ -33,15 +33,15 @@ Delete unnecessary lines in the code
 
 Style. Correction code
 
-Docs. Style. Correction docs
-
 Fix bug with ...
 
 Modify some parts of the code
 
 Update the files on the new version
 
-Modify README.md
+Docs. Style. Correction docs
+
+Docs. Modify README.md
 
 Refactor code
 

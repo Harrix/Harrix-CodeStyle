@@ -17,6 +17,7 @@ The prefixes for the names of commits:
 * **Move** - move files.
 * **Replace** - replace something to something.
 * **Rename** - rename something to something.
+* **Build** - build project.
 
 Do not end the subject line with a period.
 
@@ -50,4 +51,6 @@ Modify. Here is a description of the code modifications
 Move files from folder '' to folder ''
 
 Rename files
+
+Build project
 ```

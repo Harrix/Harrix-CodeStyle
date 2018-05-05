@@ -8,7 +8,6 @@ The prefixes for the names of commits:
 * **Delete** - delete something.
 * **Modify** - any modification other than a fix.
 * **Fix** - error correction.
-* **Docs** - documentation work.
 * **Style** - fix formatting, correcting typos.
 * **Refactor** - refactoring application code.
 * **Test** - for testing.
@@ -18,15 +17,14 @@ The prefixes for the names of commits:
 * **Replace** - replace something to something.
 * **Rename** - rename something to something.
 * **Build** - build project.
+* **Docs** - documentation work.
 
 Do not end the subject line with a period.
 
 ## Examples
 
 ```text
-Add range on the copyright year
-
-Add license in markdown format
+Add function ...
 
 Delete unnecessary files
 
@@ -40,10 +38,6 @@ Modify some parts of the code
 
 Update the files on the new version
 
-Docs. Style. Correction docs
-
-Docs. Modify README.md
-
 Refactor code
 
 Modify. Here is a description of the code modifications
@@ -53,4 +47,12 @@ Move files from folder '' to folder ''
 Rename files
 
 Build project
+
+Docs. Style. Correction docs
+
+Docs. Modify README.md
+
+Docs. Add range on the copyright year
+
+Docs. Add license in markdown format
 ```

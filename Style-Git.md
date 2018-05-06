@@ -19,9 +19,13 @@ The prefixes for the names of commits:
 * **Build** - build project.
 * **Docs** - documentation work.
 
-Do not end the subject line with a period.
+## Rules
+
+All commits must start with the specified prefixes
 
 All commits related to the documentation should start with "Docs" with its description.
+
+Do not end the subject line with a period.
 
 ## Examples
 

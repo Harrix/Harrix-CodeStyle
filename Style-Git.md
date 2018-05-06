@@ -21,7 +21,7 @@ The prefixes for the names of commits:
 
 ## Rules
 
-All commits must start with the specified prefixes
+All commits must start with the specified prefixes.
 
 All commits related to the documentation should start with "Docs" with its description.
 

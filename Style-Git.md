@@ -21,6 +21,8 @@ The prefixes for the names of commits:
 
 Do not end the subject line with a period.
 
+All commits related to the documentation should start with "Docs" with its description.
+
 ## Examples
 
 ```text

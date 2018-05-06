@@ -9,7 +9,7 @@ The prefixes for the names of commits:
 * **Modify** - any modification other than a fix.
 * **Fix** - error correction.
 * **Style** - fix formatting, correcting typos.
-* **Refactor** - refactoring application code.
+* **Refactor** - refactoring code.
 * **Test** - for testing.
 * **Experiment** - experiment.
 * **Update** - update files (eg from another project).

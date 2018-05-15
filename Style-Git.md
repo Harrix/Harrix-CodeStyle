@@ -11,7 +11,7 @@ The prefixes for the names of commits:
 * **Style** - fix formatting, correcting typos.
 * **Refactor** - refactoring code.
 * **Test** - for testing.
-* **Experiment** - experiment.
+* **Experiment** - experiment that is not allocated to a separate git branch.
 * **Update** - update files (eg from another project).
 * **Move** - move files.
 * **Replace** - replace something to something.

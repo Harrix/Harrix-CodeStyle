@@ -38,6 +38,8 @@ Delete unnecessary lines in the code
 
 Style. Correction code
 
+Style. Beautify code
+
 Fix bug with ...
 
 Modify some parts of the code

@@ -49,4 +49,11 @@ Docs. Style. Correction docs
 Docs. Modify README.md
 Docs. Add range on the copyright year
 Docs. Add license in markdown format
+Delete extra spaces
+Delete the extra character is a newline
+Replace the hyphens with a long dash
+Fix. The sentence must start with a capital letter
+Fix figure captions
+Fix the use of double quotes
+Delete an empty line at the end of the file
 ```

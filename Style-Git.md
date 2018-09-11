@@ -31,40 +31,22 @@ Do not end the subject line with a period.
 
 ```text
 Add function ...
-
 Delete unnecessary files
-
 Delete unnecessary lines in the code
-
 Style. Correction code
-
 Style. Beautify code
-
 Fix bug with ...
-
 Fix punctuation error
-
 Fix spelling mistake
-
 Modify some parts of the code
-
 Update the files on the new version
-
 Refactor code
-
 Modify. Here is a description of the code modifications
-
 Move files from folder '' to folder ''
-
 Rename files
-
 Build project
-
 Docs. Style. Correction docs
-
 Docs. Modify README.md
-
 Docs. Add range on the copyright year
-
 Docs. Add license in markdown format
 ```

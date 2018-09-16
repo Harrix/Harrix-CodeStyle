@@ -38,6 +38,7 @@ Style. Beautify code
 Fix bug with ...
 Fix punctuation error
 Fix spelling mistake
+Fix style error
 Modify some parts of the code
 Update the files on the new version
 Refactor code

@@ -4,20 +4,20 @@
 
 The prefixes for the names of commits:
 
-* **Add** - something added.
-* **Delete** - delete something.
-* **Modify** - any modification other than a fix.
-* **Fix** - error correction.
-* **Style** - fix formatting, correcting typos.
-* **Refactor** - refactoring code.
-* **Test** - for testing.
-* **Experiment** - experiment that is not allocated to a separate git branch.
-* **Update** - update files (eg from another project).
-* **Move** - move files.
-* **Replace** - replace something to something.
-* **Rename** - rename something to something.
-* **Build** - build project.
-* **Docs** - documentation work.
+* **Add** — something added.
+* **Delete** — delete something.
+* **Modify** — any modification other than a fix.
+* **Fix** — error correction.
+* **Style** — fix formatting, correcting typos.
+* **Refactor** — refactoring code.
+* **Test** — for testing.
+* **Experiment** — experiment that is not allocated to a separate git branch.
+* **Update** — update files (eg from another project).
+* **Move** — move files.
+* **Replace** — replace something to something.
+* **Rename** — rename something to something.
+* **Build** — build project.
+* **Docs** — documentation work.
 
 ## Rules
 

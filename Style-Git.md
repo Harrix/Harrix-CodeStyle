@@ -36,8 +36,8 @@ Delete unnecessary lines in the code
 Style. Correction code
 Style. Beautify code
 Fix bug with ...
-Fix punctuation error
-Fix spelling mistake
+Fix punctuation errors
+Fix spelling mistakes
 Fix style error
 Modify some parts of the code
 Update the files on the new version

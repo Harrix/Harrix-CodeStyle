@@ -31,6 +31,7 @@ Do not end the subject line with a period.
 
 ```text
 Add function ...
+Add featured image for article ""
 Build project
 Delete an empty line at the end of the file
 Delete extra spaces

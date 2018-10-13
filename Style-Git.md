@@ -49,6 +49,7 @@ Fix style error
 Fix the use of double quotes
 Fix. The sentence must start with a capital letter
 Modify some parts of the code
+Modify. Comment out code
 Modify. Here is a description of the code modifications
 Move files from folder '' to folder ''
 Refactor code

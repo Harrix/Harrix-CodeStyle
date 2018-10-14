@@ -30,8 +30,9 @@ Do not end the subject line with a period.
 ## Examples
 
 ```text
-Add function ...
+Add CC BY 4.0 license
 Add featured image for article ""
+Add function ...
 Build project
 Delete an empty line at the end of the file
 Delete extra spaces

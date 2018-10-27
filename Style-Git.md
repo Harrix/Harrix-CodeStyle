@@ -60,6 +60,7 @@ Refactor code
 Rename files
 Replace the hyphens with a long dash
 Style. Beautify code
+Style. Correction article
 Style. Correction code
 Update the files on the new version
 ```

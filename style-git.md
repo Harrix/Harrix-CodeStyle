@@ -52,6 +52,7 @@ Fix spelling mistakes
 Fix style error
 Fix the use of double quotes
 Fix. The sentence must start with a capital letter
+Modify featured image. Use my own icon
 Modify some parts of the code
 Modify. Comment out code
 Modify. Here is a description of the code modifications

@@ -27,10 +27,12 @@ All commits related to the documentation should start with `Docs` with its descr
 
 Do not end the subject line with a period.
 
+Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/7gjhpd/using_an_article_in_a_commit_message/) and [link](https://english.stackexchange.com/questions/38759/dropping-articles-in-the-title-of-an-article-or-a-section-or-in-the-caption-o).
+
 ## Examples
 
 ```text
-Add an empty line at the end of the file
+Add empty line at end of file
 Add CC BY 4.0 license
 Add featured image for article ""
 Add function ...
@@ -38,11 +40,11 @@ Add MIT license
 Add more information about ...
 Build project
 Delete extra spaces
-Delete the extra character is a newline
+Delete extra character is newline
 Delete unnecessary files
-Delete unnecessary lines in the code
+Delete unnecessary lines in code
 Docs. Add license in markdown format
-Docs. Add range on the copyright year
+Docs. Add range on copyright year
 Docs. Modify README.md
 Docs. Style. Correction docs
 Fix bug with ...
@@ -50,18 +52,18 @@ Fix figure captions
 Fix punctuation errors
 Fix spelling mistakes
 Fix style error
-Fix the use of double quotes
-Fix. The sentence must start with a capital letter
+Fix use of double quotes
+Fix. Sentence must start with capital letter
 Modify featured image. Use my own icon
-Modify some parts of the code
+Modify some parts of code
 Modify. Comment out code
-Modify. Here is a description of the code modifications
+Modify. Here is description of code modifications
 Move files from folder '' to folder ''
 Refactor code
 Rename files
-Replace the hyphens with a long dash
+Replace hyphens with long dash
 Style. Beautify code
 Style. Correction article
 Style. Correction code
-Update the files on the new version
+Update files on new version
 ```

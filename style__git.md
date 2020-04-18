@@ -43,6 +43,7 @@ Delete extra spaces
 Delete extra character is newline
 Delete unnecessary files
 Delete unnecessary lines in code
+Delete unnecessary sections
 Docs. Add license in markdown format
 Docs. Add range on copyright year
 Docs. Modify README.md

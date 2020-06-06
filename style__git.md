@@ -66,5 +66,6 @@ Replace hyphens with long dash
 Style. Beautify code
 Style. Correction article
 Style. Correction code
+Style. Correction markdown file
 Update files on new version
 ```

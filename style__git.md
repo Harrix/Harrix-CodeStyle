@@ -1,4 +1,4 @@
-# Style Git
+# Git Style
 
 ## Prefixes
 

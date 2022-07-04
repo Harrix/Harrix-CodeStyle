@@ -2,7 +2,7 @@
 
 Description of code style that I use.
 
-- [**Git**](https://github.com/Harrix/Harrix-CodeStyle/blob/master/style__git.md).
+- [**Git Style**](https://github.com/Harrix/Harrix-CodeStyle/blob/master/style__git.md).
 
 ## License
 

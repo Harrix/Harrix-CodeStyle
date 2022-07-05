@@ -1,17 +1,17 @@
 # Harrix-CodeStyle
 
-Description of code style that I use.
+Code styles that I use in my projects:
 
-- [**Git Style**](https://github.com/Harrix/Harrix-CodeStyle/blob/master/style__git.md).
+- [**Git Style**](https://github.com/Harrix/Harrix-CodeStyle/blob/master/style__git.md)
 
 ## License
 
-License - [MIT](https://github.com/Harrix/Harrix-CodeStyle/blob/master/LICENSE.md).
+[MIT](https://github.com/Harrix/Harrix-CodeStyle/blob/master/LICENSE.md)
 
-## Contacts
+## Contact
 
-Author: Anton Sergienko (Harrix).
+Anton Sergienko (Harrix):
 
-The author can be contacted at [anton.b.sergienko@gmail.com](mailto:anton.b.sergienko@gmail.com).
+- [anton.b.sergienko@gmail.com](mailto:anton.b.sergienko@gmail.com)
 
-The author's website, where news is published: <https://harrix.dev/blog>, and the projects are located at: <https://harrix.dev>.
+- [harrix.dev](https://harrix.dev)

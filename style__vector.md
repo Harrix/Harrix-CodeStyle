@@ -1,4 +1,4 @@
-# Vector
+# Vector Style
 
 ## Colors
 

@@ -34,5 +34,8 @@
 - `#a18267`: brown
 - `#66442b`: dark brown
 
-## AI
+## Adobe Illustrator
 
+- All layers and groups should be **collapsed**.
+- **Rules** should be shown and should show pixels.
+- The image should be `Fit On Screen`.

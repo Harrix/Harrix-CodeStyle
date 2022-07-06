@@ -1,4 +1,4 @@
-# Files Style
+# Files style
 
 ## Наименование файлов
 

@@ -2,7 +2,10 @@
 
 Code styles that I use in my projects:
 
-- [**Git Style**](https://github.com/Harrix/Harrix-CodeStyle/blob/master/style__git.md)
+- [**Files style**](https://github.com/Harrix/Harrix-CodeStyle/blob/main/code-styles/style__files.ru.md)
+- [**Git style**](https://github.com/Harrix/Harrix-CodeStyle/blob/main/code-styles/style__git.md)
+- [**Markdown style**](https://github.com/Harrix/Harrix-CodeStyle/blob/main/code-styles/style__markdown.md)
+- [**Vector images style**](https://github.com/Harrix/Harrix-CodeStyle/blob/main/code-styles/style__vector-images.md)
 
 ## License
 

@@ -1,4 +1,4 @@
-# Markdown Style
+# Markdown style
 
 ## Lists
 

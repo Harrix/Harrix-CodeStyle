@@ -39,3 +39,7 @@
 - All layers and groups should be **collapsed**.
 - **Rules** should be shown and should show pixels.
 - The image should be `Fit On Screen`.
+
+## Tags for files
+
+Tags for SVG files: `solid`, `line`, `color`, `black`, `gray`, `white`, `line-32`, `line-16`, `16×16`.

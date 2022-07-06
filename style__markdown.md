@@ -1,8 +1,17 @@
 # Markdown Style
 
-## Дефисы и тире
+## Lists
 
-Примеры:
+[Punctuation](https://docs.gitlab.com/ee/development/documentation/styleguide/#punctuation-1):
+
+- Don’t add commas (`,`) or semicolons (`;`) to the ends of list items.
+- If a list item is a complete sentence (with a subject and a verb), add a period at the end.
+- Majority rules. If the majority of items do not end in a period, do not end any of the items in a period.
+- Separate list items from explanatory text with a colon (`:`).
+
+## Hyphens and dashes
+
+Examples:
 
 ```text
 Век живи — век учись (тире).

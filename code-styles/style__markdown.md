@@ -7,7 +7,7 @@
 - Don’t add commas (`,`) or semicolons (`;`) to the ends of list items.
 - If a list item is a complete sentence (with a subject and a verb), add a period at the end.
 - Majority rules. If the majority of items do not end in a period, do not end any of the items in a period.
-- Separate list items from explanatory text with a colon (`:`).
+- Separate list items from explanatory text with a colon (`:`). В русских текстах для этого используется тире (`—`).
 
 ## Hyphens and dashes
 

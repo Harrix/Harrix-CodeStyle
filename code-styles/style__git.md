@@ -6,7 +6,7 @@ The prefixes for the names of commits:
 
 - **Add**: something added.
 - **Build**: build project.
-- **Delete**: delete something.
+- **Delete / Remove**: delete something.
 - **Docs**: documentation work.
 - **Experiment**: experiment that is not allocated to a separate git branch.
 - **Fix**: error correction.
@@ -44,6 +44,7 @@ Delete extra character is newline
 Delete unnecessary files
 Delete unnecessary lines in code
 Delete unnecessary sections
+Remove dots and commas from filenames
 Docs. Add license in markdown format
 Docs. Add range on copyright year
 Docs. Modify README.md

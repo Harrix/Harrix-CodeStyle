@@ -23,7 +23,7 @@ The prefixes for the names of commits:
 
 All commits must start with the specified prefixes.
 
-All commits related to the documentation should start with `Docs` with its description. But if the repository itself is documentation, the prefix 'Docs' in the commit names is not needed.
+All commits related to the documentation should start with `Docs` with its description (but this is not necessary). But if the repository itself is documentation, the prefix `Docs` in the commit names is not needed.
 
 Do not end the subject line with a period.
 

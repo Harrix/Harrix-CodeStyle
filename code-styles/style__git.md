@@ -18,6 +18,7 @@ The prefixes for the names of commits:
 - **Style**: fix formatting, correcting typos
 - **Test**: for testing
 - **Update**: update files (eg from another project)
+- **Revert**: revert the last commit
 
 ## Rules
 
@@ -69,4 +70,5 @@ Style. Correction article
 Style. Correction code
 Style. Correction markdown file
 Update files on new version
+Revert "Experiment with definition lists"
 ```

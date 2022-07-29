@@ -32,7 +32,7 @@ ASCII значения не используем.
 - Majority rules. If the majority of items do not end in a period, do not end any of the items in a period.
 - Separate list items from explanatory text with a colon (`:`). В русских текстах для этого может использоваться тире (`—`).
 
-```md
+```markdown
 The list is as follows:
 
 - First item: this explains the first item.

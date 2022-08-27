@@ -4,7 +4,7 @@
 
 The prefixes for the names of commits:
 
-- **Add**: something added
+- **Add / Create**: something added
 - **Build**: build project
 - **Delete / Remove**: delete something
 - **Docs**: documentation work
@@ -39,6 +39,7 @@ Add featured image for article ""
 Add function ...
 Add MIT license
 Add more information about ...
+Create test.md
 Build project
 Delete extra spaces
 Delete extra character is newline

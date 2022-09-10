@@ -15,10 +15,10 @@ YYYY-MM-DD-name-of-category_name-of-subcategory_name-of-another-subcategory__nam
 Примеры:
 
 ```text
-2019-02-24-it_technics_with-screen__laptop_black_solid_01.en.svg
-2019-02-24-it__laptop_black_solid_02.en.svg
-2019-02-24-it__laptop_white_solid_001.en.svg
-2019-02-24-it__laptop_white_solid_723.en.svg
+2019-02-24-it_technics_with-screen__laptop_black_solid_01.svg
+2019-02-24-it__laptop_black_solid_02.svg
+2019-02-24-it__laptop_white_solid_001.svg
+2019-02-24-it__laptop_white_solid_723.svg
 2019-02-24-interface__clock-dial_with-border.svg
 2019-02-24-interface__clock-dial_with-border.svg
 2019-interface__close.png
@@ -46,4 +46,4 @@ style__files.ru.md
 
 **Необязательно.** Во всех частях названия файла рекомендуется использовать латиницу. Исключение составляют тэги.
 
-Почему используется вариант `2019-02-24-it__laptop_black_solid_01.en.svg`, а не `2019-02-24-it__laptop_01_black_solid.en.svg`? Это вызвано тем, что при размещении файлов в одной папке с разными модификаторами будут сортироваться не в том порядке, в котором хочется. Хочется, чтобы файлы с одинаковым набором модификаторов (тэгов) шли вместе, а не смешивались. К сожалению, это может создать трудности при групповом переименовании файлов.
+Почему используется вариант `2019-02-24-it__laptop_black_solid_01.svg`, а не `2019-02-24-it__laptop_01_black_solid.svg`? Это вызвано тем, что при размещении файлов в одной папке с разными модификаторами будут сортироваться не в том порядке, в котором хочется. Хочется, чтобы файлы с одинаковым набором модификаторов (тэгов) шли вместе, а не смешивались. К сожалению, это может создать трудности при групповом переименовании файлов.

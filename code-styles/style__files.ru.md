@@ -7,7 +7,7 @@
 Наименование в полном виде (используется подход, похожий на [БЭМ](https://ru.bem.info/methodology/naming-convention/)):
 
 ```text
-YYYY-MM-DD-name-of-category_name-of-subcategory_name-of-another-subcategory__name-of-file_tag_another-tag_NN.lang.extension
+YYYY-MM-DD-name-of-category_name-of-subcategory_name-of-another-subcategory__name-of-file_tag_another-tag_NN.extension
 ```
 
 Обязательным элементом является только имя файла `name-of-file`.

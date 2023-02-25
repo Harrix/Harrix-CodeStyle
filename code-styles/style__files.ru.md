@@ -1,3 +1,10 @@
+---
+tags: [Code style]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
+lang: ru
+---
+
 # Files style
 
 **Не распространяется на наименование файлов Python!** Так как в их наименовании не рекомендуется использовать дефис.

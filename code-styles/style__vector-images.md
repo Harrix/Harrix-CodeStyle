@@ -1,3 +1,10 @@
+---
+tags: [Code style]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
+lang: en
+---
+
 # Vector style
 
 ## Colors

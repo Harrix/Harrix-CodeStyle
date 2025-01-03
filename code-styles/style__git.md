@@ -81,4 +81,5 @@ Style. Correction markdown file
 Update files on new version
 Revert "Experiment with definition lists"
 Publish article
+Refactor. Sort classes, methods, functions
 ```

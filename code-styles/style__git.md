@@ -41,20 +41,20 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ## Examples
 
 ```text
-Add empty line at end of file
 Add CC BY 4.0 license
+Add empty line at end of file
 Add featured image for article ""
 Add function ...
 Add MIT license
 Add more information about ...
-Create test.md
 Build project
-Delete extra spaces
+Create test.md
 Delete extra character is newline
+Delete extra spaces
 Delete unnecessary files
+Delete unnecessary imports
 Delete unnecessary lines in code
 Delete unnecessary sections
-Remove dots and commas from filenames
 Docs. Add license in markdown format
 Docs. Add range on copyright year
 Docs. Modify README.md
@@ -71,15 +71,16 @@ Modify some parts of code
 Modify. Comment out code
 Modify. Here is description of code modifications
 Move files from folder '' to folder ''
+Publish article
 Refactor code
+Refactor. Sort classes, methods, functions
+Remove dots and commas from filenames
 Rename files
 Replace hyphens with long dash
+Revert "Experiment with definition lists"
 Style. Beautify code
 Style. Correction article
 Style. Correction code
 Style. Correction markdown file
 Update files on new version
-Revert "Experiment with definition lists"
-Publish article
-Refactor. Sort classes, methods, functions
 ```

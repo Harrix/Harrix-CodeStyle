@@ -41,6 +41,8 @@ lang: en
 - `#a18267`: brown
 - `#66442b`: dark brown
 
+#de2b26
+
 ## Adobe Illustrator
 
 - All layers and groups should be **collapsed**.

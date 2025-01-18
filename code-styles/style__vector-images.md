@@ -25,6 +25,7 @@ lang: en
 - `#2e86b7`: blue
 - `#038387`: turquoise
 - `#3aaf9d`: light turquoise
+- `#de2b26`: logo
 - `#cc584c`: red
 - `#f84d18`: red № 2
 - `#ad403b`: dark red
@@ -40,8 +41,6 @@ lang: en
 - `#e0ac7e`: beige
 - `#a18267`: brown
 - `#66442b`: dark brown
-
-#de2b26
 
 ## Adobe Illustrator
 

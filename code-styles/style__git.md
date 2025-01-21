@@ -32,8 +32,6 @@ The prefixes for the names of commits:
 
 All commits must start with the specified prefixes.
 
-All commits related to the documentation should start with `Docs` with its description (but this is not necessary). But if the repository itself is documentation, the prefix `Docs` in the commit names is not needed.
-
 Do not end the subject line with a period.
 
 Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/7gjhpd/using_an_article_in_a_commit_message/) and [link](https://english.stackexchange.com/questions/38759/dropping-articles-in-the-title-of-an-article-or-a-section-or-in-the-caption-o).
@@ -82,5 +80,6 @@ Style. Beautify code
 Style. Correction article
 Style. Correction code
 Style. Correction markdown file
+Style. Sort functions
 Update files on new version
 ```

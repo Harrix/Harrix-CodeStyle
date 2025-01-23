@@ -68,6 +68,8 @@ Modify featured image. Use my own icon
 Modify some parts of code
 Modify. Comment out code
 Modify. Here is description of code modifications
+Modify. Optimize images
+Modify. Transform GIF and MP4 to AVIF
 Move files from folder '' to folder ''
 Publish article
 Refactor code

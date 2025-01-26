@@ -75,7 +75,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ♻️ Refactor code
 ♻️ Refactor. Sort classes, methods, functions
 🗑️ Remove dots and commas from filenames
-🗑️ Rename files
+✒️ Rename files
 🔄 Replace hyphens with long dash
 🔙 Revert "Experiment with definition lists"
 ✨ Style. Beautify code
@@ -85,21 +85,3 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ✨ Style. Sort functions
 ⬆️ Update files on new version
 ```
-
-# Temp
-
-♻️ Parse entities to text_special token (#280)
-👌 Improve nested emphasis
-🐛 FIX: numeric character reference passing (#272)
-♻️ REFACTOR: Replace character codes with strings (#270)
-📚 DOCS: re-activate code cells
-🔧 MAINTAIN: Make type checking strict (#267)
-🧪 Add OSS-Fuzz set up (#255)
-⬆️ Bump actions/checkout from 2 to 3 (#252)
-🚀 RELEASE: v2.2.0 (#250)
-🧪 TESTS unpin pytest-benchmark
-‼️ Remove deorecated NestedTokens and nest_tokens
-✨ NEW: Add inline_definitions option (#187)
-🔀 MERGE: Synchronize with markdown-it v12.0.4 (#140)
-🗑 DEPRECATE: Move plugins to mdit_py_plugins (#93)
-

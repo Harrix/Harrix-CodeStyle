@@ -58,6 +58,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 📚 Docs. Add range on copyright year
 📚 Docs. Modify README.md
 📚 Docs. Style. Correction docs
+📚 Docs. Add docstring
 🐛 Fix bug with ...
 🐛 Fix figure captions
 🐛 Fix punctuation errors
@@ -83,6 +84,6 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ✨ Style. Correction article
 ✨ Style. Correction code
 ✨ Style. Correction markdown file
-✨ Style. Sort functions
+✨ Style. Sort functions and classes
 ⬆️ Update files on new version
 ```

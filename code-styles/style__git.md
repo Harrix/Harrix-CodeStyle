@@ -46,6 +46,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ➕ Add MIT license
 ➕ Add more information about ...
 🚀 Build project
+🚀 Build version 0.
 ➕ Create test.md
 🗑️ Delete extra character is newline
 🗑️ Delete extra spaces

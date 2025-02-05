@@ -30,7 +30,7 @@ The prefixes for the names of commits:
 
 ## Rules
 
-All commits must start with the specified prefixes.
+All commits must start with the specified prefixes. Icons can change.
 
 Do not end the subject line with a period.
 
@@ -85,6 +85,6 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ✨ Style. Correction article
 ✨ Style. Correction code
 ✨ Style. Correction markdown file
-✨ Style. Sort functions and classes
+📶 Style. Sort functions and classes
 ⬆️ Update files on new version
 ```

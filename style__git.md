@@ -16,7 +16,7 @@ The prefixes for the names of commits:
 - **🗑️ Delete / Remove**: delete something
 - **📚 Docs**: documentation work
 - **🧪 Experiment**: experiment that is not allocated to a separate git branch
-- **🐛 Fix**: error correction
+- **🐞 Fix**: error correction
 - **🔧 Modify**: any modification other than a fix
 - **🚚 Move**: move files
 - **♻️ Refactor**: refactoring code
@@ -42,9 +42,10 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ➕ Add CC BY 4.0 license
 ➕ Add empty line at end of file
 ➕ Add featured image for article ""
-➕ Add function ...
+➕ Add featured image for article ""
 ➕ Add MIT license
-➕ Add more information about ...
+➕ Add more information about
+⚗️ Add test for
 🚀 Build project
 🚀 Build version 0.
 ➕ Create test.md
@@ -59,13 +60,13 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 📚 Docs. Modify README.md
 📚 Docs. Style. Correction docs
 📚 Docs. Add docstring
-🐛 Fix bug with ...
-🐛 Fix figure captions
-🐛 Fix punctuation errors
-🐛 Fix spelling mistakes
-🐛 Fix style error
-🐛 Fix use of double quotes
-🐛 Fix. Sentence must start with capital letter
+🐞 Fix bug with ...
+🐞 Fix figure captions
+🐞 Fix punctuation errors
+🐞 Fix spelling mistakes
+🐞 Fix style error
+🐞 Fix use of double quotes
+🐞 Fix. Sentence must start with capital letter
 🔧 Modify featured image. Use my own icon
 🔧 Modify some parts of code
 🔧 Modify. Comment out code

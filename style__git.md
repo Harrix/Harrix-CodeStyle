@@ -70,6 +70,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🔧 Modify featured image. Use my own icon
 🔧 Modify some parts of code
 🔧 Modify. Comment out code
+📥 Modify. Download images
 🔧 Modify. Here is description of code modifications
 🔧 Modify. Optimize images
 🔧 Modify. Transform GIF and MP4 to AVIF
@@ -77,7 +78,8 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🚚 Move files from folder '' to folder ''
 🚀 Publish article
 ♻️ Refactor code
-♻️ Refactor. Sort classes, methods, functions
+📶 Refactor. Sort classes, methods, functions
+📶 Refactor. Sort sections
 🗑️ Remove dots and commas from filenames
 ✒️ Rename files
 🔄 Replace hyphens with long dash

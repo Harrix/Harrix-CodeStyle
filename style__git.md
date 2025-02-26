@@ -44,6 +44,8 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ➕ Add featured image for article ""
 ➕ Add featured image for article ""
 ➕ Add MIT license
+🎬 Add movie ""
+🎬 Add movies
 ➕ Add more information about
 ⚗️ Add test for
 🚀 Build project

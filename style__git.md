@@ -48,6 +48,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🎬 Add movies
 ➕ Add more information about
 ⚗️ Add test for
+⚠️ Add TODO
 🚀 Build project
 🚀 Build version 0.
 ➕ Create test.md
@@ -92,4 +93,6 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ✨ Style. Correction markdown file
 📶 Style. Sort functions and classes
 ⬆️ Update files on new version
+
+# ⚠️ TODO
 ```

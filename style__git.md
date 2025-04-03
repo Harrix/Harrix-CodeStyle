@@ -63,6 +63,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 📚 Docs. Modify README.md
 📚 Docs. Style. Correction docs
 📚 Docs. Add docstring
+📚 Docs. Update
 🐞 Fix bug with ...
 🐞 Fix punctuation errors
 🐞 Fix spelling mistakes

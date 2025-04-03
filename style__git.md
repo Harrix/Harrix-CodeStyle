@@ -23,7 +23,7 @@ The prefixes for the names of commits:
 - **✒️ Rename**: rename something to something
 - **🔄 Replace**: replace something to something
 - **✨ Style**: fix formatting, correcting typos
-- **🎯 Test**: for testing
+- **⚗️ Test**: for testing
 - **⬆️ Update**: update files (eg from another project)
 - **🔙 Revert**: revert the last commit
 - **🚀 Publish**: publish the article
@@ -64,7 +64,6 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 📚 Docs. Style. Correction docs
 📚 Docs. Add docstring
 🐞 Fix bug with ...
-🐞 Fix figure captions
 🐞 Fix punctuation errors
 🐞 Fix spelling mistakes
 🐞 Fix style error
@@ -88,11 +87,14 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🔄 Replace hyphens with long dash
 🔙 Revert "Experiment with definition lists"
 ✨ Style. Beautify code
+✨ Style. Beautify MD files
 ✨ Style. Correction article
 ✨ Style. Correction code
 ✨ Style. Correction markdown file
 📶 Style. Sort functions and classes
+📶 Style. Sort functions and classes, beautify code
 ⬆️ Update files on new version
+⬆️ Update combined notes
 
 # ⚠️ TODO
 ```

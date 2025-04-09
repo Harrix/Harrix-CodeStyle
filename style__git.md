@@ -75,7 +75,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🔧 Modify. Comment out code
 📥 Modify. Download images
 🔧 Modify. Here is description of code modifications
-🔧 Modify. Optimize images
+🖼️ Modify. Optimize images
 🔧 Modify. Transform GIF and MP4 to AVIF
 🔠 Modify. Translate
 🚚 Move files from folder '' to folder ''

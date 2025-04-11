@@ -47,6 +47,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🎬 Add movie ""
 🎬 Add movies
 ➕ Add more information about
+📖 Add section "" in .md
 ⚗️ Add test for
 ⚠️ Add TODO
 🚀 Build project
@@ -96,6 +97,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 📶 Style. Sort functions and classes, beautify code
 ⬆️ Update files on new version
 📦 Update combined notes
+🤖 Update TOC
 
 # ⚠️ TODO
 ```

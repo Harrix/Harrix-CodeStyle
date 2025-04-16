@@ -46,8 +46,8 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ➕ Add MIT license
 ➕ Add more information about
 🎬 Add movie ""
-🎬 Add movies
 💤 Add dreams
+💭 Add quotes from ""
 📖 Add section "" in .md
 ⚗️ Add test for
 ⚠️ Add TODO
@@ -94,11 +94,9 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ✨ Style. Correction article
 ✨ Style. Correction code
 ✨ Style. Correction markdown file
-📶 Style. Sort functions and classes
-📶 Style. Sort functions and classes, beautify code
 ⬆️ Update files on new version
 📦 Update combined notes
-🤖 Update TOC
+📜 Update TOC
 
 # ⚠️ TODO
 ```

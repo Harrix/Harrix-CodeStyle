@@ -27,6 +27,7 @@ The prefixes for the names of commits:
 - **⬆️ Update**: update files (eg from another project)
 - **🔙 Revert**: revert the last commit
 - **🚀 Publish**: publish the article
+- **🔀 Merge**: merge branches
 
 ## Rules
 

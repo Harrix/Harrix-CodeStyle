@@ -40,6 +40,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ## Examples
 
 ```text
+➕ Add annotations for
 ➕ Add CC BY 4.0 license
 ➕ Add empty line at end of file
 ➕ Add featured image for article ""

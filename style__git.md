@@ -71,6 +71,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 📚 Docs. Update
 🐞 Fix bug with ...
 🐞 Fix punctuation errors
+🐞 Fix ruff check issues
 🐞 Fix spelling mistakes
 🐞 Fix style error
 🐞 Fix use of double quotes
@@ -97,6 +98,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ✨ Style. Correct article
 ✨ Style. Correct code code
 ✨ Style. Correct markdown file
+✨ Style. Fix ruff check issues
 ⬆️ Update files on new version
 📦 Update combined notes
 📜 Update TOC

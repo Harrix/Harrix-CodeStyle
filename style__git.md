@@ -72,6 +72,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🐞 Fix bug with ...
 🐞 Fix punctuation errors
 🐞 Fix ruff check issues
+🐞 Fix Cursor ai check issues
 🐞 Fix spelling mistakes
 🐞 Fix style error
 🐞 Fix use of double quotes

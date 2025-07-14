@@ -103,7 +103,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ✨ Style. Fix ruff check issues
 ⬆️ Update files on new version
 📦 Update combined notes
-📦 Update packages
+⬆️ Update packages
 📜 Update TOC
 
 # ⚠️ TODO

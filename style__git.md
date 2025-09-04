@@ -56,7 +56,6 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🚀 Build project
 🚀 Build version 0.
 ➕ Create test.md
-🗑️ Delete extra character is newline
 🗑️ Delete extra spaces
 🗑️ Delete unnecessary files
 🗑️ Delete unnecessary imports
@@ -75,10 +74,8 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🐞 Fix ruff check issues
 🐞 Fix Cursor ai check issues
 🐞 Fix spelling mistakes
-🐞 Fix style error
-🐞 Fix use of double quotes
+🐞 Fix spelling and punctuation mistakes
 🐞 Fix. Sentence must start with capital letter
-🔧 Modify featured image. Use my own icon
 🔧 Modify some parts of code
 🔧 Modify. Comment out code
 📥 Modify. Download images
@@ -91,7 +88,6 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ♻️ Refactor code
 📶 Refactor. Sort classes, methods, functions
 📶 Refactor. Sort sections
-🗑️ Remove dots and commas from filenames
 ✒️ Rename files
 🔄 Replace hyphens with long dash
 🔙 Revert "Experiment with definition lists"

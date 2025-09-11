@@ -86,6 +86,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🚚 Move files from folder '' to folder ''
 🚀 Publish article
 ♻️ Refactor code
+📶 Refactor. isort, ruff format, sort, make docs in PY files
 📶 Refactor. Sort classes, methods, functions
 📶 Refactor. Sort sections
 ✒️ Rename files

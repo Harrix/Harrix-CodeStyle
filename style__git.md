@@ -48,6 +48,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ➕ Add MIT license
 ➕ Add more information about
 🎬 Add movie ""
+🎬 Add series "" (season )
 💤 Add dreams
 💭 Add quotes from ""
 📖 Add section "" in .md

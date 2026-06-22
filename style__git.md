@@ -64,6 +64,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🗑️ Delete unnecessary sections
 📚 Docs. Add license in markdown format
 📚 Docs. Add range on copyright year
+📚 Docs. Fix
 📚 Docs. Modify README.md
 📚 Docs. Style. Correct docs
 📚 Docs. Add docstring

@@ -98,6 +98,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🔙 Revert "Experiment with definition lists"
 ✨ Style. Beautify code
 ✨ Style. Beautify MD files
+✨ Style. Beautify MD and regenerate g.md
 ✨ Style. Correct article
 ✨ Style. Correct code code
 ✨ Style. Correct markdown file

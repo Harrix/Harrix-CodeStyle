@@ -48,7 +48,6 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ➕ Add empty line at end of file
 ➕ Add event "{Title}"
 ➕ Add featured image for article ""
-➕ Add featured image for article ""
 ➕ Add MIT license
 ➕ Add more information about
 ➕ Add travel "{Title}"
@@ -62,7 +61,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ⚠️ Add TODO
 🚀 Build
 🚀 Build project
-🚀 Build version 0.
+🚀 Build version 0
 ➕ Create
 ➕ Create test.md
 🗑️ Delete
@@ -123,7 +122,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ✨ Style. Beautify MD files
 ✨ Style. Beautify MD and regenerate g.md
 ✨ Style. Correct article
-✨ Style. Correct code code
+✨ Style. Correct code
 ✨ Style. Correct markdown file
 ✨ Style. Fix ruff check issues
 ✨ Style. Update docstrings to Markdown format
@@ -131,8 +130,6 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ⬆️ Update files on new version
 📦 Update combined notes
 ⬆️ Update packages
-⬆️ Update Promts.md
+⬆️ Update Prompts.md
 📜 Update TOC
-
-# ⚠️ TODO
 ```

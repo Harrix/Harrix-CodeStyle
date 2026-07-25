@@ -40,28 +40,39 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ## Examples
 
 ```text
+➕ Add
 ➕ Add annotations for
+➕ Add book "{TitleEnglish}" {AuthorEnglish}
 ➕ Add CC BY 4.0 license
+☕ Add coffee note "{Title}" in {City}
 ➕ Add empty line at end of file
+➕ Add event "{Title}"
 ➕ Add featured image for article ""
 ➕ Add featured image for article ""
 ➕ Add MIT license
 ➕ Add more information about
+➕ Add travel "{Title}"
 🎬 Add movie ""
 🎬 Add series "" (season )
 💤 Add dreams
 💭 Add quotes from ""
 📖 Add section "" in .md
 ⚗️ Add test for
+⚗️ Test
 ⚠️ Add TODO
+🚀 Build
 🚀 Build project
 🚀 Build version 0.
+➕ Create
 ➕ Create test.md
+🗑️ Delete
 🗑️ Delete extra spaces
 🗑️ Delete unnecessary files
 🗑️ Delete unnecessary imports
 🗑️ Delete unnecessary lines in code
 🗑️ Delete unnecessary sections
+🗑️ Remove
+📚 Docs
 📚 Docs. Add license in markdown format
 📚 Docs. Add range on copyright year
 📚 Docs. Fix
@@ -70,6 +81,8 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 📚 Docs. Add docstring
 📚 Docs. Add docstrings and annotations for
 📚 Docs. Update
+🧪 Experiment
+🐞 Fix
 🐞 Fix annotations
 🐞 Fix bug with ...
 🐞 Fix punctuation errors
@@ -79,7 +92,10 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🐞 Fix Harrix PyLib check issues
 🐞 Fix spelling mistakes
 🐞 Fix spelling and punctuation mistakes
+🐞 Fix style error
 🐞 Fix. Sentence must start with capital letter
+🔀 Merge
+🔧 Modify
 🔧 Modify some parts of code
 🔧 Modify. Comment out code
 📥 Modify. Download images
@@ -87,15 +103,22 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🖼️ Modify. Optimize images
 🔧 Modify. Transform GIF and MP4 to AVIF
 🔠 Modify. Translate
+🚚 Move
 🚚 Move files from folder '' to folder ''
+🚀 Publish
 🚀 Publish article
+♻️ Refactor
 ♻️ Refactor code
-📶 Refactor. isort, ruff format, sort, make docs in PY files
+📶 Refactor. Ruff format, sort, make docs in PY files
 📶 Refactor. Sort classes, methods, functions
 📶 Refactor. Sort sections
+✒️ Rename
 ✒️ Rename files
+🔄 Replace
 🔄 Replace hyphens with long dash
+🔙 Revert
 🔙 Revert "Experiment with definition lists"
+✨ Style
 ✨ Style. Beautify code
 ✨ Style. Beautify MD files
 ✨ Style. Beautify MD and regenerate g.md
@@ -104,9 +127,11 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 ✨ Style. Correct markdown file
 ✨ Style. Fix ruff check issues
 ✨ Style. Update docstrings to Markdown format
+⬆️ Update
 ⬆️ Update files on new version
 📦 Update combined notes
 ⬆️ Update packages
+⬆️ Update Promts.md
 📜 Update TOC
 
 # ⚠️ TODO

@@ -1,11 +1,23 @@
 ---
-tags: [Code style]
+tags:
+  - Code style
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 lang: en
 ---
 
 # Vector style
+
+<details>
+<summary>📖 Contents ⬇️</summary>
+
+## Contents
+
+- [Colors](#colors)
+- [Adobe Illustrator](#adobe-illustrator)
+- [Tags for files](#tags-for-files)
+
+</details>
 
 ## Colors
 

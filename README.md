@@ -2,6 +2,16 @@
 
 Code styles that I use in my projects:
 
+<details>
+<summary>📖 Contents ⬇️</summary>
+
+## Contents
+
+- [License](#license)
+- [Contact](#contact)
+
+</details>
+
 - [**Files style**](https://github.com/Harrix/Harrix-CodeStyle/blob/main/code-styles/style__files.ru.md) [russian]
 - [**Git style**](https://github.com/Harrix/Harrix-CodeStyle/blob/main/code-styles/style__git.md)
 - [**Markdown style**](https://github.com/Harrix/Harrix-CodeStyle/blob/main/code-styles/style__markdown.md)
@@ -15,6 +25,5 @@ Code styles that I use in my projects:
 
 Anton Sergienko (Harrix):
 
-- [anton.b.sergienko@gmail.com](mailto:anton.b.sergienko@gmail.com)
-
-- [harrix.dev](https://harrix.dev)
+- <anton.b.sergienko@gmail.com>
+- <https://harrix.dev>

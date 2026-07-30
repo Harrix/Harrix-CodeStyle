@@ -1,5 +1,6 @@
 ---
-tags: [Code style]
+tags:
+  - Code style
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 lang: en
@@ -7,27 +8,38 @@ lang: en
 
 # Git style
 
+<details>
+<summary>📖 Contents ⬇️</summary>
+
+## Contents
+
+- [Prefixes](#prefixes)
+- [Rules](#rules)
+- [Examples](#examples)
+
+</details>
+
 ## Prefixes
 
 The prefixes for the names of commits:
 
-- **➕ Add / Create**: something added
-- **🚀 Build**: build project
-- **🗑️ Delete / Remove**: delete something
-- **📚 Docs**: documentation work
-- **🧪 Experiment**: experiment that is not allocated to a separate git branch
-- **🐞 Fix**: error correction
-- **🔧 Modify**: any modification other than a fix
-- **🚚 Move**: move files
-- **♻️ Refactor**: refactoring code
-- **✒️ Rename**: rename something to something
-- **🔄 Replace**: replace something to something
-- **✨ Style**: fix formatting, correct typos
-- **⚗️ Test**: for testing
-- **⬆️ Update**: update files (eg from another project)
-- **🔙 Revert**: revert the last commit
-- **🚀 Publish**: publish the article
-- **🔀 Merge**: merge branches
+- **➕ Add / Create:** something added
+- **🚀 Build:** build project
+- **🗑️ Delete / Remove:** delete something
+- **📚 Docs:** documentation work
+- **🧪 Experiment:** experiment that is not allocated to a separate Git branch
+- **🐞 Fix:** error correction
+- **🔧 Modify:** any modification other than a fix
+- **🚚 Move:** move files
+- **♻️ Refactor:** refactoring code
+- **✒️ Rename:** rename something to something
+- **🔄 Replace:** replace something to something
+- **✨ Style:** fix formatting, correct typos
+- **⚗️ Test:** for testing
+- **⬆️ Update:** update files (eg from another project)
+- **🔙 Revert:** revert the last commit
+- **🚀 Publish:** publish the article
+- **🔀 Merge:** merge branches
 
 ## Rules
 

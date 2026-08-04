@@ -96,6 +96,7 @@ Do not use articles. Explanations: [link](https://www.reddit.com/r/git/comments/
 🐞 Fix
 🐞 Fix annotations
 🐞 Fix bug with ...
+🐞 Fix links
 🐞 Fix punctuation errors
 🐞 Fix ruff check issues
 🐞 Fix ty check issues
